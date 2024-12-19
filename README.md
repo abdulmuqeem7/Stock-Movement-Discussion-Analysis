@@ -14,7 +14,10 @@ We have applied three ML model they are
 > DecisionTreeClassifier
 > Logistic Regression
 
-Coming to the accuracy of prediciton from the above models, The Logistic Regression model as performed well with accuracy score of 0.88, where Random forest model has 0.82 and decision tree model has given 0.80.
+After the model developments we got F1 Scores of the above models as follows
+> Logistic Regression - 0.88
+> Random Forest Classifier - 0.82
+> Decision Tree Classifier - 0.80
 
 
 LANGUAGE AND LIBRARY :
