@@ -1,8 +1,8 @@
 # Stock-Movement-Analysis
 The Whole Project was done on real time data scraped from the Reddit Platform
-Using the Reddit API app development credentials and PRAW libraryof Python the data have been scraped.
+Using the Reddit API app development credentials and PRAW library of Python the data have been scraped.
 Converted the data into csv file with help of pandas library
-The data was scraped from a reddit handle called IndianStockMarket
+The data was scraped from a reddit handle called IndianStockMarket. 
 
 Sentiment Analysis
 the comments have the ranking for positive negative and neutral.
