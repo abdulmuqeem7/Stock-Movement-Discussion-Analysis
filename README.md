@@ -27,3 +27,7 @@ LANGUAGE AND LIBRARY :
 > Matplotlib
 > Seaborn
 > Sklearn
+
+![Visuals](https://github.com/user-attachments/assets/b41e8b37-6ce3-4a0a-ad35-a01518489318)
+
+
