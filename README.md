@@ -14,10 +14,10 @@ We have applied three ML model they are
 > DecisionTreeClassifier
 > Logistic Regression
 
-After the model developments we got F1 Scores of the above models as follows
-> Logistic Regression - 0.88
-> Random Forest Classifier - 0.82
-> Decision Tree Classifier - 0.80
+After the model developments we got accuracy of the above models as follows
+> Logistic Regression - 0.80
+> Random Forest Classifier - 0.70
+> Decision Tree Classifier - 0.70
 
 
 LANGUAGE AND LIBRARY :
